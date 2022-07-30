@@ -31,7 +31,8 @@ Open-world 3D survival game made with Unity. 🎮
 <br>
 
 The project is using the following version of Unity: [Unity 2020.3.35f1](https://unity3d.com/get-unity/download/archive). <br> 
-You can find more details [here](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Documentation.pdf).
+You can find more details [here](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Documentation.pdf). <br>
+Get the build version for windows_x64 from this [link](https://github.com/sevketbinali/3D-Survival-Game-Unity/releases/tag/alpha-v1.0).
 
 
 ### Setup project in Unity :
