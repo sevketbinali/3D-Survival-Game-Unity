@@ -46,7 +46,9 @@ Open the cloned repository in unity.
  Install UnityHub.<br>
  With UnityHub opened click **ADD**<br>
  Select the project directory<br>
- Wait unity setup your project
+ Wait unity setup your project <br>
+ This project also uses URP. <br>
+ You need to add Universal RP in unity package manager.
 
 ### Controls :
  Move  :&nbsp;&nbsp; W, A, S, D or arrow keys. <br>
@@ -97,3 +99,8 @@ Lmhpoly assets : [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
 N-hance assets : [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
 
 SFX : [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=) &nbsp; [OpenGameArt](https://opengameart.org)
+
+<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity">
+     <img alt="Last commit" src="https://img.shields.io/github/stars/sevketbinali/3D-Survival-Game-Unity?style=plastic">
+	
+
