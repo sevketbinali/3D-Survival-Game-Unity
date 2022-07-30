@@ -6,10 +6,13 @@ Open-world 3D survival game made with Unity. 🎮
 </p>
 
 <h4 align="center"> 
-	Main Menu 
+	3D Survival Game (Geriye Dönüş) - Main Menu 
 </h4>
  <br>
-  
+
+
+
+
 <p align="center">
  <a href="https://unity3d.com">
     <img alt="Made with Unity" src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?logo=unity">
@@ -18,18 +21,28 @@ Open-world 3D survival game made with Unity. 🎮
      <img alt="Last commit" src="https://img.shields.io/github/last-commit/sevketbinali/3D-Survival-Game-Unity">
 </p>
 
+
+<p align="center">
+<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/commits">
+     <img alt="Last commit" src="https://img.shields.io/github/followers/sevketbinali?style=social">
+<p>
+ </a>
+<p align="center">
+
+The project is using the following version of Unity: &nbsp; [Unity 2020.3.35f1](https://unity3d.com/get-unity/download/archive)  
+</p>
+
 ### Setup project in Unity :
 `git clone https://www.github.com/sevketbinali/3D-Survival-Game-Unity.git` <br>
 Open the cloned repository in unity.
 
 ### Requirements
 
-Windows:
-1. Go to [Unity's download page](https://store.unity.com/download) and click “Download Installer for Windows”.
-1. Install UnityHub.
-1. With UnityHub opened click **ADD**
-1. Select the project directory
-1. Wait unity setup your project
+ Go to [Unity's download page](https://store.unity.com/download) and click “Download Installer for Windows”.<br>
+ Install UnityHub.<br>
+ With UnityHub opened click **ADD**<br>
+ Select the project directory<br>
+ Wait unity setup your project
 
 ### Controls :
  Move  :&nbsp;&nbsp; W, A, S, D or arrow keys. <br>
