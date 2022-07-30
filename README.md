@@ -31,8 +31,9 @@ Open-world 3D survival game made with Unity. 🎮
 <br>
 
 The project is using the following version of Unity: [Unity 2020.3.35f1](https://unity3d.com/get-unity/download/archive). <br> 
-You can find more details [here](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Documentation.pdf). <br>
-Get the build version for windows_x64 from this [link](https://github.com/sevketbinali/3D-Survival-Game-Unity/releases/tag/alpha-v1.0).
+Get the build version for windows_x64 from this [link](https://github.com/sevketbinali/3D-Survival-Game-Unity/releases/tag/alpha-v1.0). <br>
+You can find more details [here](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Documentation.pdf). 
+
 
 
 ### Setup project in Unity :
@@ -53,3 +54,46 @@ Open the cloned repository in unity.
  Open/Close Inventory:&nbsp;&nbsp; "TAB". <br>
  Interact:&nbsp;&nbsp; "E". <br>
  Attack or Gather:&nbsp;&nbsp; Left Mouse Click button.
+	
+### Gameplays :
+	
+#### Inventory System :	
+
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/inventory-and-pickup.gif)
+	
+#### Gathering Woods : 
+	
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/gathering-woods.gif)
+	
+#### Gathering Stones : 
+	
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/gathering-stones.gif)
+	
+#### Crafting System : 
+	
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/crafting.gif)
+	
+#### Building System :
+
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/building-and-sleep.gif)
+	
+#### Attacking System : 
+
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/attacking.gif)
+	
+#### Underwater Effect : 
+
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/underwater-effect.gif)
+
+
+### Credits : 
+
+Created by Şevket Binali - sevketbinali@gmail.com
+
+Kenney assets : [Survival Kit](https://www.kenney.nl/assets/survival-kit) &nbsp; [Animated Characters](https://www.kenney.nl/assets/animated-characters)
+
+Lmhpoly assets : [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
+
+N-hance assets : [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
+
+SFX : [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=) &nbsp; [OpenGameArt](https://opengameart.org)
