@@ -25,18 +25,20 @@ Open-world 3D survival game made with Unity. 🎮
 <p align="center">
 <a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/commits">
      <img alt="Last commit" src="https://img.shields.io/github/followers/sevketbinali?style=social">
-<p>
- </a>
-<p align="center">
-
-The project is using the following version of Unity: &nbsp; [Unity 2020.3.35f1](https://unity3d.com/get-unity/download/archive)  
 </p>
+</a>
+	
+<br>
+
+The project is using the following version of Unity: [Unity 2020.3.35f1](https://unity3d.com/get-unity/download/archive). <br> 
+You can find more details [here](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Documentation.pdf).
+
 
 ### Setup project in Unity :
 `git clone https://www.github.com/sevketbinali/3D-Survival-Game-Unity.git` <br>
 Open the cloned repository in unity.
 
-### Requirements
+### Requirements for Windows :
 
  Go to [Unity's download page](https://store.unity.com/download) and click “Download Installer for Windows”.<br>
  Install UnityHub.<br>
