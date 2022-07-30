@@ -100,7 +100,7 @@ N-hance assets : [Animals](https://assetstore.unity.com/packages/3d/characters/a
 
 SFX : [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=) &nbsp; [OpenGameArt](https://opengameart.org)
 
-<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity">
+<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/stargazers">
      <img alt="Last commit" src="https://img.shields.io/github/stars/sevketbinali/3D-Survival-Game-Unity?style=plastic">
 	
 
