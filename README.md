@@ -2,7 +2,7 @@
 Open-world 3D survival game made with Unity. 🎮 
 
 <p align="center">
-<img align="center" alt="PNG" src="https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Images/main_menu.jpg?raw=true" width="680" height="400" />
+<img align="center" alt="PNG" src="https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Images/main_menu.jpg?raw=true" width="800" height="390" />
 </p>
 
 <h4 align="center"> 
