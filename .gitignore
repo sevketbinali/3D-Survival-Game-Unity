@@ -44,6 +44,24 @@ ExportedObj/
 *.VC.db
 *.shader
 
+# For line ending normalization between Unix and Windows
+* text=auto
+
+# Unity 
+*.cs diff=csharp text
+*.cginc text
+*.shader text
+
+*.mat -text merge=unityyamlmerge diff
+*.anim -text merge=unityyamlmerge diff
+*.unity -text merge=unityyamlmerge diff
+*.prefab -text merge=unityyamlmerge diff
+*.physicsMaterial2D -text merge=unityyamlmerge diff
+*.physicMaterial -text merge=unityyamlmerge diff
+*.asset -text merge=unityyamlmerge diff
+*.meta -text merge=unityyamlmerge diff
+*.controller -text merge=unityyamlmerge diff
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
