@@ -14,17 +14,20 @@ Open-world 3D survival game made with Unity. 🎮
 
 
 <p align="center">
- <a href="https://unity3d.com">
-    <img alt="Made with Unity" src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?logo=unity">
+<a href="https://unity3d.com">
+<img alt="Made with Unity" src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?logo=unity">
     
- <a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/commits">
-     <img alt="Last commit" src="https://img.shields.io/github/last-commit/sevketbinali/3D-Survival-Game-Unity">
+<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/commits">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/sevketbinali/3D-Survival-Game-Unity">
 </p>
 
 
 <p align="center">
-<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/commits">
-     <img alt="Last commit" src="https://img.shields.io/github/followers/sevketbinali?style=social">
+<a href="https://github.com/sevketbinali?tab=followers">
+<img alt="Last commit" src="https://img.shields.io/github/followers/sevketbinali?style=social">
+<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/stargazers">
+<img alt="Last commit" src="https://img.shields.io/github/stars/sevketbinali/3D-Survival-Game-Unity.svg?style=social&label=Star&maxAge=2592000">
+
 </p>
 </a>
 	
